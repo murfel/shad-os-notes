@@ -90,4 +90,4 @@ c1   /\
 Создаём пайп для c1-c2, форкаемся в c2 и т.д.
 
 ## Rust
-https://gist.github.com/murfel/5ca99302a54510d2783e782cf1fcb522
+[01-sem.rs](01-sem.rs)
