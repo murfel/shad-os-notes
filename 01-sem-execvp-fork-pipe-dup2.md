@@ -1,7 +1,7 @@
 ```
 $ echo hi
 $ echo hi >a.txt <a.in
-$ 
+$ cat a.txt | wc -l | ... | ... | ...
 execvp(cmd, [args])
 execvp(echo, [echo hi]) -> exit(0)
 
