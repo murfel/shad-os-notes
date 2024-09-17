@@ -1,7 +1,14 @@
+# Семинар 1
+
+Домашка - проэмулировать баш, чтобы можно было выполнять такие команды:
 ```
 $ echo hi
 $ echo hi >a.txt <a.in
 $ cat a.txt | wc -l | ... | ... | ...
+```
+
+## execvp и fork
+```
 execvp(cmd, [args])
 execvp(echo, [echo hi]) -> exit(0)
 
