@@ -1,3 +1,7 @@
+// Ссылка на код от лектора (то же самое, но менее подробно): https://pastebin.com/xU9sqVi2
+// В cargo.toml в [dependencies] добавить:
+// nix = { version = "0.29.0", features = ["fs", "process"] }
+
 #![allow(dead_code)]
 #![allow(unused_imports)]
 #![allow(unused_variables)]
